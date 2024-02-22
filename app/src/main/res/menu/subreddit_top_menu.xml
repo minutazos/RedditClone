@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bestMenu"
+        android:title="Best"
+        android:icon="@drawable/ic_baseline_check_24"/>
+    <item
+        android:id="@+id/newMenu"
+        android:title="New"
+        android:icon="@drawable/ic_baseline_fiber_new_24"/>
+    <item
+        android:id="@+id/hotMenu"
+        android:title="Hot"
+        android:icon="@drawable/ic_baseline_whatshot_24"/>
+</menu>

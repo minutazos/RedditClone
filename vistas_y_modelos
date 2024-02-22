@@ -1,0 +1,15 @@
+vistas:
+
+User login
+User profile
+Post feed // home
+Post filter // just one post + comments
+Subreddit search
+Subreddit info // Subreddit feed
+User setting
+
+modelos:
+User
+  Subreddit
+    Post
+      Comment
